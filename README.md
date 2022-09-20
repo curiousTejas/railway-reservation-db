@@ -20,7 +20,7 @@ Submitted for Course Database Management System
 
 ## ER Diagram  
   
-![ER-Diagram](https://raw.githubusercontent.com/curiousTejas/railway-reservation-db/main/ER-Diagram.png)
+![ER-Diagram](/documents/ER-Diagram.png)
 
 ## Relational Model  
 
